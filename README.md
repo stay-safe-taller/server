@@ -1,3 +1,5 @@
+## RUTAS
+```
 POST - /login
 POST - /register
 POST - /accesoAgenda
@@ -10,3 +12,11 @@ POST - /eligetudestino
 GET - /map
 GET - /incidente (Mas de 2 min parada)
 GET - /llegadadestino
+```
+
+
+## RECURSOS
+
+### APIS
+
+https://www.mapbox.com/
